@@ -1,0 +1,3 @@
+menjalankan mongodb : node api.js
+menjalankan web : npm run start-dev
+model backend berada di : script - view - model
